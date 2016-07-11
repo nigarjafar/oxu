@@ -1,0 +1,30 @@
+﻿/*300 - 390 10px
+imdg - 225height */
+
+.n{
+	height: 390px;
+	width: 300px;
+	border: 1px lightgray solid;
+	background-color: white;
+	float: left;
+	margin: 10px;
+}
+
+
+p{
+    font-family: Calibri;
+	font-size: 25px;
+	font-weight: bolder;
+	color: darkblue;
+	margin: 5px;
+
+}
+
+.main{
+
+	margin: 40px;
+	margin-left: 160px;
+}
+
+
+
